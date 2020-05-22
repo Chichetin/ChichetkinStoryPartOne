@@ -1,2 +1,2 @@
 # ChichetkinStoryPartOne
-Мой репозиторий, ага.
+Работаю.
