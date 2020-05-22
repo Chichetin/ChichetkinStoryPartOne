@@ -1,0 +1,2 @@
+# ChichetkinStoryPartOne
+Мой репозиторий, ага.
